@@ -1,1 +1,3 @@
-$(button)
+$("#Dem").click(function(){
+    ("#Demo").show();
+});
