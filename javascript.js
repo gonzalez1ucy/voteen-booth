@@ -1,8 +1,9 @@
-$("#Dem").click(function(){
-    ("#Demo").show();
-    
-     
-});
+/*global $*/
+
+$("#Demo").hide();
+
+   // $("#Demo").show();
+
 
 $("button").click(function() {
     $.ajax({
